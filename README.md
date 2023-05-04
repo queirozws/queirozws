@@ -2,6 +2,6 @@
 
 Olá!
 
-Me chamo Wildson. Me formei e atuo como Engenheiro Ambiental, contudo, atualmente estou me graduando em Análise e Desenvolvimento de Sistemas.
+Me chamo Wildson. Sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor.
 
-Me interesso muito pelo mundo da tecnologia, em especial, programação, e mais recentemente, sobre a tecnologia de blockchain.
+Me interesso muito pelo mundo da tecnologia, em especial, programação.
